@@ -6,7 +6,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:JA_Projecto_Greenscreeno"
         mc:Ignorable="d"
-        Title="Greenscreen Remover" 
+        Title="Green Screen Remover" 
         Height="1080"
         Width="1920"
         WindowStartupLocation="CenterScreen"
