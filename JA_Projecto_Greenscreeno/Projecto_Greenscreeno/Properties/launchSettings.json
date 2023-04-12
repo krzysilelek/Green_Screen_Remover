@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JA_Projecto_Greenscreeno": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

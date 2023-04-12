@@ -1,0 +1,2 @@
+LIBRARY AsmDll
+EXPORTS processPictureAsm
